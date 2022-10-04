@@ -5,6 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+html {
+    font-size: 1.8vh;
+}
+
 div.start {
     width: 100vw;
     height: 100vh;
@@ -67,6 +71,10 @@ div.start > div, section {
 .f60 {font-size: 60px;}
 .f72 {font-size: 72px;}
 .f80 {font-size: 80px;}
+
+.fe1 {font-size: 1.5rem;}
+.fe2 {font-size: 1.7rem;}
+.fe3 {font-size: 1.8rem}
 
 .p4 {padding: 4px;}
 .p5 {padding: 5px;}
